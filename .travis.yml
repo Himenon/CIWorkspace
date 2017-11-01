@@ -6,3 +6,5 @@ cache:
   - bundle
 before_script:
   - bundle exec danger
+script:
+  - echo OK
