@@ -3,6 +3,6 @@ rvm:
   - 2.4.2
 
 cache:
-  - bundler
+  - bundle
 before_script:
   - bundle exec danger
